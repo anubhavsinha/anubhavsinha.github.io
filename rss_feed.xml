@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anubhav Sinha&#39;s Website</title>
+    <description>This is the personal website of a data scientist and machine learning enthusiast with a big passion for Python and open source. Born and raised in India.
+</description>
+    <link>http://anubhavsinha.com/</link>
+    <atom:link href="http://anubhavsinha.com/rss_feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 02 Apr 2016 04:00:22 -0400</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2016 04:00:22 -0400</lastBuildDate>
+
+
+      
+      <item>
+        <title>Dhanda: Chapter 1</title>
+        <description>Diamonds are for ever - Story of Bhimjibhai Patel</description>
+        <pubDate>June 16, 2016, midnight</pubDate>
+        <link>posts/dhanda-chapter-1.html</link>
+        <guid isPermaLink="true">posts/dhanda-chapter-1.html</guid>
+        <category></category>
+        <category></category>
+
+
+
+      </item>
+      
+      <item>
+        <title>Disruption</title>
+        <description>Model in 4 dimensions</description>
+        <pubDate>June 15, 2016, midnight</pubDate>
+        <link>posts/disruption.html</link>
+        <guid isPermaLink="true">posts/disruption.html</guid>
+        <category></category>
+        <category></category>
+
+
+
+      </item>
+      
+      <item>
+        <title>Cellular Respiration</title>
+        <description>A case in favor of Pranayams</description>
+        <pubDate>June 12, 2016, midnight</pubDate>
+        <link>posts/yoga.html</link>
+        <guid isPermaLink="true">posts/yoga.html</guid>
+        <category></category>
+        <category></category>
+
+
+
+      </item>
+      
+      <item>
+        <title>Music and Engineering</title>
+        <description>It&#39;s more than a feeling :)</description>
+        <pubDate>May 27, 2016, midnight</pubDate>
+        <link>posts/more-than-a-feeling.html</link>
+        <guid isPermaLink="true">posts/more-than-a-feeling.html</guid>
+        <category></category>
+        <category></category>
+
+
+
+      </item>
+      
+      <item>
+        <title>Into the blues</title>
+        <description>My first 12 bar blues riff composition</description>
+        <pubDate>May 23, 2016, midnight</pubDate>
+        <link>posts/first-blues-riff-composition.html</link>
+        <guid isPermaLink="true">posts/first-blues-riff-composition.html</guid>
+        <category></category>
+        <category></category>
+
+
+
+      </item>
+      
+      <item>
+        <title>My brand new keyboard</title>
+        <description>One step closer to professional music production</description>
+        <pubDate>May 9, 2016, midnight</pubDate>
+        <link>posts/midi-controller.html</link>
+        <guid isPermaLink="true">posts/midi-controller.html</guid>
+        <category></category>
+        <category></category>
+
+
+
+      </item>
+      
+      <item>
+        <title>How to become an artist</title>
+        <description>The difference between an artist and an entertainer</description>
+        <pubDate>April 28, 2016, midnight</pubDate>
+        <link>posts/how-to-become-an-artist.html</link>
+        <guid isPermaLink="true">posts/how-to-become-an-artist.html</guid>
+        <category></category>
+        <category></category>
+
+
+
+      </item>
+      
+      <item>
+        <title>18th April</title>
+        <description>Things are getting interesting</description>
+        <pubDate>April 15, 2016, midnight</pubDate>
+        <link>posts/18th-april-onwards.html</link>
+        <guid isPermaLink="true">posts/18th-april-onwards.html</guid>
+        <category></category>
+        <category></category>
+
+
+
+      </item>
+      
+      <item>
+        <title>90 hours</title>
+        <description>Making the most of a week</description>
+        <pubDate>April 14, 2016, midnight</pubDate>
+        <link>posts/90-hours-per-week.html</link>
+        <guid isPermaLink="true">posts/90-hours-per-week.html</guid>
+        <category></category>
+        <category></category>
+
+
+
+      </item>
+      
+    </channel>
+  </rss>
